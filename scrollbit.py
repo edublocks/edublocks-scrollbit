@@ -1,3 +1,5 @@
+# https://github.com/pimoroni/micropython-scrollbit
+
 from microbit import sleep, i2c, Image as I
 
 WIDTH = 17
